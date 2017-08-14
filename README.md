@@ -1,4 +1,4 @@
-# Bcrypt_tool"
+# Bcrypt_tool
 
 Quick php tool for encryp and decrypt bcrypt stuff.
 
