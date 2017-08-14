@@ -1,0 +1,44 @@
+body {
+    margin : 0;
+}
+
+header {
+    width: 100%;
+    padding: 1em;
+    text-align : center;
+    background : #25658D;
+    color: white;
+}
+
+header h1 {
+    margin: 0;
+}
+
+#wrapper {
+    width: 100%;
+    text-align: center
+}
+
+.submit{
+    background: rgba(223, 19, 64, 0.78);
+    color: white;
+    font-weight: bold;
+    border: none;
+    padding: 1em;
+    margin-left: 15px;
+    cursor:pointer;    
+}
+
+.submit:hover {
+    transition: 0.2s ease-in-out;    
+    transform: scale(1.05)
+}
+
+.input {
+    padding:1em;
+    width:300px
+}
+
+#showEncrypted , #showDecrypted {
+    margin-bottom: 0;
+}
